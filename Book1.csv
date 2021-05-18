@@ -1,0 +1,10 @@
+item,Quantity,price,code,Weight,Manufacturer
+Maggi_S,85,10,MG_S,100g,Nestle
+Maggi_L,100,25,MG_L,250g,Nestle
+Maggi_M,27,15,MG_M,125g,Nestle
+Brown_bread_S,54,20,BB_S,150g,Britania
+Brown_bread_M,12,30,BB_M,250g,Britania
+Brown_bread_L,10,40,BB_L,500g,Britania
+Regular_bread_S,27,15,RB_S,150g,Britania
+Regular_bread_M,51,25,RB_M,250g,Britania
+Regular_bread_L,42,35,RB_L,500g,Britania
